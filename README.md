@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**rxt44z/rxt44z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem vindo (a) ao meu perfil!
 
-Here are some ideas to get you started:
+Meu nome é Raphaela Tomas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para compartilhar meus projetos desenvolvidos
+
+Entre em contato comigo pelo email:
+
+raphatomas22@gmail.com
+
+
